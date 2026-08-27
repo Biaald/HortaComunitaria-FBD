@@ -9,7 +9,7 @@ O projeto foi construído respeitando a arquitetura de três esquemas:
 ### 1. Nível Conceitual
 Mapeamento puro das regras de negócio sem dependência de tecnologia.
 * **Artefato:** Diagrama Entidade-Relacionamento (DER).
-* *![DER](diagramas/Esquema_Relacional.png)`]*
+* *![DER](diagramas/Esquema_Relacional.jpg)`]*
 
 ### 2. Nível Lógico
 Tradução do modelo conceitual para o paradigma relacional, aplicando regras de normalização para evitar anomalias de inserção, atualização e exclusão. Definição de Chaves Primárias (PK) e Estrangeiras (FK).
