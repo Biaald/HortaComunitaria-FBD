@@ -21,11 +21,12 @@ O repositório está organizado da seguinte forma:
 2. [app/HortaComunitaria.ipynb](app/HortaComunitaria.ipynb): notebook principal com a aplicação em Panel.
 3. [app/.env-example](app/.env-example): exemplo de configuração das credenciais do banco.
 4. [docs/REQUISITOS.md](docs/REQUISITOS.md): requisitos funcionais e de negócio.
-5. [modelagem/Conceitual (EER)](modelagem/Conceitual%20%28EER%29): diagramas conceituais.
-6. [modelagem/Lógico (Relacional)](modelagem/L%C3%B3gico%20%28Relacional%29): esquema relacional e artefatos relacionados.
+5. [diagramas/Conceitual (EER)](modelagem/Conceitual%20%28EER%29): diagramas conceituais.
+6. [diagramas/Lógico (Relacional)](modelagem/L%C3%B3gico%20%28Relacional%29): esquema relacional e artefatos relacionados.
 7. [sql/Horta Comunitária(tabelas).sql](sql/Horta%20Comunit%C3%A1ria%28tabelas%29.sql): criação das tabelas e chaves estrangeiras.
 8. [sql/Horta Comunitária(inserts).sql](sql/Horta%20Comunit%C3%A1ria%28inserts%29.sql): inserção de dados iniciais.
-9. [sql/Horta_Triggers.sql](sql/Horta_Triggers.sql): regras e automatizações da base.
+9. [sql/Horta Comunitária(consultas).sql](sql/Horta%20Comunit%C3%A1ria%28consultas%29.sql): inserção de dados iniciais.
+10. [sql/Horta_Triggers.sql](sql/Horta_Triggers.sql): regras e automatizações da base.
 
 ## Tecnologias Utilizadas
 
