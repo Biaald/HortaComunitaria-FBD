@@ -2,7 +2,7 @@
 
 Projeto final desenvolvido para a disciplina de Fundamentos de Banco de Dados (FBD). O sistema gerencia as operações de uma horta comunitária, incluindo o controle de insumos, a escala de voluntários e o registro da distribuição das colheitas.
 
-## 🗂️ Etapas da Modelagem
+## Etapas da Modelagem
 
 O projeto foi construído respeitando a arquitetura de três esquemas:
 
