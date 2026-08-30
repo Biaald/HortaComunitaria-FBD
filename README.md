@@ -1,5 +1,3 @@
-# Hortas_Comunitarias_FBD_2026.1
-
 # Sistema de Gestão de Hortas Comunitárias 🌱
 
 Projeto final da disciplina de **Fundamentos de Banco de Dados (2026.1)**. O objetivo é modelar e demonstrar um sistema para apoiar a administração de hortas comunitárias, com foco em cadastro de pessoas, organização de canteiros, controle de operações e persistência em PostgreSQL.
