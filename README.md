@@ -25,7 +25,7 @@ O repositório está organizado da seguinte forma:
 6. [diagramas/Lógico (Relacional)](modelagem/L%C3%B3gico%20%28Relacional%29): esquema relacional e artefatos relacionados.
 7. [sql/Horta Comunitária(tabelas).sql](sql/Horta%20Comunit%C3%A1ria%28tabelas%29.sql): criação das tabelas e chaves estrangeiras.
 8. [sql/Horta Comunitária(inserts).sql](sql/Horta%20Comunit%C3%A1ria%28inserts%29.sql): inserção de dados iniciais.
-9. [sql/Horta Comunitária(consultas).sql](sql/Horta%20Comunit%C3%A1ria%28consultas%29.sql): inserção de dados iniciais.
+9. [sql/Horta Comunitária(consultas).sql](sql/Horta%20Comunit%C3%A1ria%28consultas%29.sql): simulação de perguntas.
 10. [sql/Horta_Triggers.sql](sql/Horta_Triggers.sql): regras e automatizações da base.
 
 ## Tecnologias Utilizadas
